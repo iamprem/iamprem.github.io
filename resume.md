@@ -1,36 +1,21 @@
 ---
-layout: page
+layout: resume
 title: Resume
 permalink: /resume/
 ---
-<br>
-<div align="center" markdown="1">  
-####**[Download Resume [PDF]]({{ site.baseurl }}/resume.pdf)**  
-</div>
-<br>
-<div align="center" markdown="1">
----
-<br>
 
-### **PREM KUMAR MURUGESAN**
-
-
-9514 Grove Side Lane, 1002 Colonial Grand, Charlotte, NC 28262  <br>
-<pmuruges@uncc.edu> | +1 (704)-957-7640 | [iamprem.github.com](http://iamprem.github.com)
-
-</div>
-<br>
+[//]: # (This is comment - This page is continued from resume.html)
 
 #### **EDUCATION**
 ---
 <br>
 **M.S. in Computer Science (Jan 2015 – Present)**  
 **GPA	4.0/4.0**  
-University of North Carolina at Charlotte, NC, USA  
+University of North Carolina at Charlotte, NC, USA
 <br>
 **Bachelor of Engineering in Electronics and Communication Engineering**  
 **GPA	7.15/10**  
-Anna University, Chennai, India | June 2013  
+Anna University, Chennai, India | June 2013
 <br>
 
 #### **PROFESSIONAL EXPERIENCE**
@@ -70,17 +55,12 @@ Programmer Analyst Trainee
 - Machine Learning
 - Data Mining
 - Application Development
-
-<br>
-
+ 
 
 #### **PROJECTS**
 ---  
 <br>
-**Facebook Personal Data analysis using Swift (Current):** An app for the iOS platform that will 
-collect and process usage statistics from a user’s profile in the social networking site –
-Facebook (using Facebook Graph API), and generate insightful graphs for the user to analyze 
-his/her usage.
+**Facebook Personal Data analysis using Swift (Current):** An app for the iOS platform that will collect and process usage statistics from a user’s profile in the social networking site – Facebook (using Facebook Graph API), and generate insightful graphs for the user to analyze his/her usage.
 
 **Career Fair Application (Feb – March 2015):** Built a career fair application in android that will be useful to students/alumni and recruiters in a campus recruiting scenario in a University system. This app lists all the companies who will be attending the career fair with their brief introduction, available positions, e-pamphlets, link to recruiter’s website, and directions to apply for positions and the location where the company would put their stall on the career fair day
 
@@ -88,9 +68,8 @@ his/her usage.
 
 **Email-ID Extractor (Feb 2015):** Scripted using Jmeter to extract list of encoded email-ids from the participant page on Moodle2 and decoded them to correct email-ids using Java. This is a self-experimented project which helps to create an email Distribution List by students for any course that they register. Code not published in GitHub due to security.
 
-####**Projects Repository:** <https://github.com/iamprem>  
+
+#### **Projects Repository**:  <https://github.com/iamprem>  
+
 ---
 <br>
-<div align="center" markdown="1">
-###**[Download Resume [PDF]]({{ site.baseurl }}/resume.pdf)**  
-</div>

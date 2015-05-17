@@ -10,5 +10,9 @@ github_username:  iamprem
 linkedin_username: iamprem
 exclude: ['README.md'] #Ignore these files by jekyll, we can also add folder be seperating by commas
 # Build settings
-#markdown: redcarpet
+# markdown: redcarpet
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 markdown: kramdown
+kramdown:
+ input: GFM
