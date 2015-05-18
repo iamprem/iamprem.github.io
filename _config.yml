@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Stalk me everywhere possible, you will get something useful.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: OMGMacintosh
+twitter_username: i4mpr3m
 github_username:  iamprem
 linkedin_username: iamprem
 exclude: ['README.md'] #Ignore these files by jekyll, we can also add folder be seperating by commas
