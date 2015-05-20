@@ -14,5 +14,6 @@ exclude: ['README.md'] #Ignore these files by jekyll, we can also add folder be 
 # redcarpet:
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 markdown: kramdown
+#timezone: Greenwich #Time zone issue in jekyll issue#1069 on github.com/jekyll
 kramdown:
  input: GFM
