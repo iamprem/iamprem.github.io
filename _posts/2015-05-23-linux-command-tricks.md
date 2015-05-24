@@ -44,3 +44,5 @@ Well this is an amazing hack not many people know. You may run a command no matt
 
 
 [Credits](http://www.tecmint.com/)
+
+[More](http://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/)

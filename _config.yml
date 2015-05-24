@@ -4,7 +4,7 @@ email: pmuruges(at)uncc(dot)edu
 description: > # this means to ignore newlines until "baseurl:"
   Stalk me everywhere possible, you will get something useful.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://iamprem.github.com" # the base hostname & protocol for your site
 twitter_username: i4mpr3m
 github_username:  iamprem
 linkedin_username: iamprem
