@@ -6,3 +6,7 @@ If the .tooltip * {....} has background as transparent, change it to #000000
 
 Here we go! Happy Firefoxing!
 Chrome a Memory hog!
+
+Reference:
+
+http://www.shyloh.com/themes.html
