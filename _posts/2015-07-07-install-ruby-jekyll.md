@@ -14,7 +14,7 @@ categories: ruby, ubuntu, jekyll
 Note: In Fedora 22 for some reason this was throwing an error, But fortunately it also shows some fix in that error message.
 
 # 2. Install ruby 2.0.0
- 
+
 	curl -sSL https://get.rvm.io | bash -s stable --ruby
 
 	rvm get stable
@@ -33,7 +33,7 @@ Note: In Fedora 22 for some reason this was throwing an error, But fortunately i
 
 # 5. Lauch jekyll server
 
-	jekyll serve --watch -baseurl ""
+	jekyll serve --watch --baseurl ""
 
 
 # Reference: [https://rvm.io/rvm/install](https://rvm.io/rvm/install)
